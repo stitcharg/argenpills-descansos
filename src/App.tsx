@@ -1,9 +1,18 @@
 import './App.css'
 
+import HeroComponent from './components/hero'
+import Timeline from './components/timeline'
+
 function App() {
 	return (
 		<>
-			<h1>Argenpills - Descansos</h1>
+			<div className="App">
+				<div className="container mx-auto">
+					<HeroComponent />
+					<div className="divider"></div>
+					<Timeline />
+				</div>
+			</div>
 		</>
 	)
 }
