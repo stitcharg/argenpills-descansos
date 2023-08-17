@@ -1,4 +1,5 @@
 import './App.css'
+import Footer from './components/footer'
 
 import HeroComponent from './components/hero'
 import Timeline from './components/timeline'
@@ -11,6 +12,7 @@ function App() {
 					<HeroComponent />
 					<div className="divider"></div>
 					<Timeline />
+					<Footer />
 				</div>
 			</div>
 		</>

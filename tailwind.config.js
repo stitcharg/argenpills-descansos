@@ -14,6 +14,14 @@ module.exports = {
 
 			'xl': '1280px',
 			// => @media (min-width: 1280px) { ... }
+		},
+		colors: {
+			'ap.yellow': '#FFBE0B',
+			'ap.orange': '#FB5607',
+			'ap.pink': '#FF006E',
+			'ap.purple': '#8338EC',
+			'ap.blue': '#3A86FF',
+			'white': '#FFFFFF'
 		}
 	}
 };
