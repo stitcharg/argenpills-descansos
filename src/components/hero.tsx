@@ -1,6 +1,6 @@
 function HeroComponent() {
 	return (
-		<div className="hero min-v-screen" style={{ backgroundImage: 'url(/public/hero.jpg)' }}>
+		<div className="hero min-v-screen" style={{ backgroundImage: 'url(/hero.jpg)' }}>
 			<div className="hero-content text-center text-white">
 				<div className="max-w-md">
 					<h1 className="text-5xl font-bold">Hola!</h1>
