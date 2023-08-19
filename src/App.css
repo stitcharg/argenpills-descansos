@@ -47,3 +47,9 @@
 
 	}
 }
+
+@media (prefers-color-scheme: dark) {
+	.rc-card-text {
+		color: #222;
+	}
+}
