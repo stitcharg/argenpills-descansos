@@ -11,7 +11,8 @@ const Timeline = () => {
 					title: "Hora 0",
 					cardTitle: "Toma inicial",
 					timelineContent: <div>Empieza nuestra aventura, y tomamos la sustancia.
-						Recuerden que el formato de la sustancia no varia y puede ser pastillas o en formato cristal. La droga, en definitiva, es la misma.
+						Recuerden que el formato de la sustancia no varia y puede ser pastillas o en formato cristal. La droga, en definitiva, es la misma. Asumimos que pasaron, al menos, 90 dias desde el ultimo
+						consumo de extasis, o es tu primera vez
 						<Full caption="Nuestro tanquecito esta lleno de serotonina"></Full>
 					</div>
 				},
@@ -31,8 +32,9 @@ const Timeline = () => {
 					title: "Hora +8",
 					cardTitle: "Pasaron 8 horas",
 					cardSubtitle: `A mimir`,
-					timelineContent: <div>Ya pasaron 8 horas desde que consumimos nuestra ultima dosis. Probablemente estemos durmiendo (o en proceso de hacerlo). Recorda que podes tener varios sintomas cuando intentes dormir,
-						incluidos: brain zaps, movimientos involuntarios, sue#os muy vividos, levantarte muchas veces a hacer pis, o incluso insomnio. Tu cerebro esta intentando recuperarse de la sustancia, no te asustes.
+					timelineContent: <div>Ya pasaron 8 horas desde que consumimos nuestra ultima dosis. Probablemente estemos durmiendo (o en proceso de hacerlo). Record&aacute; que podes tener varios sintomas cuando intentes dormir,
+						incluidos: brain zaps (como "descargas de electricidad en la cabeza"), movimientos involuntarios, sue&ntilde;os muy vividos, levantarte muchas veces a hacer pis, o incluso insomnio. Tu cerebro esta intentando
+						recuperarse de la sustancia, no te asustes.
 						<Empty caption="Nuestro tanquecito esta totalmente vacio"></Empty>
 					</div>
 				},
@@ -40,8 +42,9 @@ const Timeline = () => {
 					title: "Dia +2",
 					cardTitle: "2 dias despues",
 					cardSubtitle: `Tuesday Blues`,
-					timelineContent: <div>Ya pasaron 2 dias de la toma, estamos empezando a volver a la normalidad, pero podemos sentir un bajon animico muy grande. Se le llama "Tuesday Blues" en ingles,
-						y es muy comun, dado que el cerebro esta todavia recuperandose. Podes sentir irritabilidad, tristeza, depresion, poca esperanza. Trata de no pelearte con nadie de tu familia, y tene en cuenta
+					timelineContent: <div>Ya pasaron 2 dias de la toma, estamos empezando a volver a la normalidad, pero podemos sentir un bajon animico muy grande. Se le llama "Tuesday Blues" en ingles ("Martes triste", porque usualmente,
+						si consumimos el dia sabado, hoy seria martes),
+						y es muy comun, dado que el cerebro esta todavia recuperandose. Podes sentir irritabilidad, tristeza, depresion, poca esperanza. Trat&aacute; de no pelearte con nadie de tu familia, y tene en cuenta
 						que es un proceso quimico y va a pasar pronto.
 						<Empty caption="Nuestro tanquecito sigue vacio"></Empty>
 					</div>
@@ -51,8 +54,8 @@ const Timeline = () => {
 					cardTitle: "4 dias despues",
 					cardSubtitle: `(Casi) normales`,
 					timelineContent: <div>Pasaron 4 dias desde que consumimos. Nos sentimos bastante mejor, dormimos bien, tenemos buen animo, podemos concentrarnos, casi que parece que no tomamos nada el finde, y estamos
-						listos para volver al ruedo, pero nuestro cerebro todavia se esta recuperando!
-						<br />Si sentis que no te estas recuperando, o estas asustado o preocupado por algun sintoma, te recomendamos acudir al medico! Si no te animas, podes dejar un mensaje en el foro de Argenpills, tal vez
+						listos para volver al ruedo, pero nuestro cerebro todavia se est&aacute; recuperando!
+						<br />Si sentis que no te est&aacute;s recuperando, o est&aacute;s asustado o preocupado por algun sintoma, te recomendamos acudir al medico! Si no te anim&aacute;s, podes dejar un mensaje en el foro de Argenpills, tal vez
 						encuentres alguna respuesta ahi, pero <strong>recorda que no somos medicos ni reemplazmos su funcion</strong>!
 						<Empty caption="Nuestro tanquecito sigue vacio! Aunque nos sintamos mejor"></Empty>
 					</div>
@@ -90,7 +93,7 @@ const Timeline = () => {
 					title: "Dia +90",
 					cardTitle: "90 dias despues (o mas!)",
 					cardSubtitle: `Recuperado completamente!`,
-					timelineContent: <div>Pasaron <strong>90 dias (o mas!)</strong> desde la ultima toma de extasis. Nuestro cerebro esta recuperado! (al menos a nivel quimico)
+					timelineContent: <div>Pasaron <strong>90 dias (o mas!)</strong> desde la ultima toma de extasis. Nuestro cerebro est&aacute; recuperado! (al menos a nivel quimico)
 						Es el tiempo ideal de espera entre consumos de extasis, si queremos disminuir los efectos adversos y problemas a futuro.
 						Si tenemos ganas, podemos repetir la toma, respetando la dosis recomendada (maximo 120-150mg) de forma
 						segura, teniendo las precauciones y recaudos suficientes

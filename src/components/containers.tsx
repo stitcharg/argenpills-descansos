@@ -18,19 +18,19 @@ const FullToEmpty = (props: iContainerProps) => {
 			</div>
 			<div className="flex flex-row place-items-center place-content-center">
 				<div>
-					<img src="/full.png" className="xs:w-8 md:w-10" alt="Lleno"></img>
+					<Tank altText="Tanque lleno" type={TANK_TYPE.FULL}></Tank>
 				</div>
 				<div>
 					<Arrow />
 				</div>
 				<div>
-					<img src="/medium.png" className="xs:w-8 md:w-10" alt="Medio"></img>
+					<Tank altText="Tanque a medio llenar" type={TANK_TYPE.MEDIUM}></Tank>
 				</div>
 				<div>
 					<Arrow />
 				</div>
 				<div>
-					<img src="/empty.png" className="xs:w-8 md:w-10" alt="Vacio"></img>
+					<Tank altText="Tanque vacio" type={TANK_TYPE.EMPTY}></Tank>
 				</div>
 			</div>
 		</div>
@@ -45,7 +45,7 @@ const Full = (props: iContainerProps) => {
 			</div>
 			<div className="flex flex-row place-items-center place-content-center">
 				<div>
-					<img src="/full.png" className="xs:w-8 md:w-10" alt="Lleno"></img>
+					<Tank altText="Tanque lleno" type={TANK_TYPE.FULL}></Tank>
 				</div>
 			</div>
 		</div>
@@ -61,7 +61,7 @@ const Empty = (props: iContainerProps) => {
 			</div>
 			<div className="flex flex-row place-items-center place-content-center">
 				<div>
-					<img src="/empty.png" className="xs:w-8 md:w-10" alt="Vacio"></img>
+					<Tank altText="Tanque vacio" type={TANK_TYPE.EMPTY}></Tank>
 				</div>
 			</div>
 		</div>
@@ -76,13 +76,13 @@ const Filling = (props: iContainerProps) => {
 			</div>
 			<div className="flex flex-row place-items-center place-content-center">
 				<div>
-					<img src="/empty.png" className="xs:w-8 md:w-10" alt="Vacio"></img>
+					<Tank altText="Tanque vacio" type={TANK_TYPE.EMPTY}></Tank>
 				</div>
 				<div>
 					<Arrow />
 				</div>
 				<div>
-					<img src="/medium.png" className="xs:w-8 md:w-10" alt="Medio"></img>
+					<Tank altText="Tanque medio lleno" type={TANK_TYPE.MEDIUM}></Tank>
 				</div>
 
 			</div>
@@ -100,13 +100,13 @@ const Half = (props: iContainerProps) => {
 			</div>
 			<div className="flex flex-row place-items-center place-content-center">
 				<div>
-					<img src="/medium.png" className="xs:w-8 md:w-10" alt="Vacio"></img>
+					<Tank altText="Tanque medio lleno" type={TANK_TYPE.MEDIUM}></Tank>
 				</div>
 				<div>
 					<Arrow />
 				</div>
 				<div>
-					<img src="/medium.png" className="xs:w-8 md:w-10" alt="Medio"></img>
+					<Tank altText="Tanque medio lleno" type={TANK_TYPE.MEDIUM}></Tank>
 				</div>
 
 			</div>
@@ -114,6 +114,36 @@ const Half = (props: iContainerProps) => {
 	)
 }
 
+//internal methods
 
+interface iTank {
+	altText: string,
+	type: TANK_TYPE
+}
+
+enum TANK_TYPE {
+	EMPTY,
+	MEDIUM,
+	FULL
+}
+
+const Tank = (props: iTank) => {
+	let imagePath = "";
+	switch (props.type) {
+		case TANK_TYPE.EMPTY:
+			imagePath = "/empty.png";
+			break;
+		case TANK_TYPE.FULL:
+			imagePath = "/full.png";
+			break;
+		case TANK_TYPE.MEDIUM:
+			imagePath = "/medium.png";
+			break;
+	}
+
+	return (
+		<img src={imagePath} className="xs:w-8 md:w-10" alt={props.altText}></img>
+	)
+}
 
 export { FullToEmpty, Full, Empty, Filling, Half }
