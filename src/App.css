@@ -20,6 +20,10 @@
 		overflow: hidden !important;
 		white-space: nowrap !important;
 	}
+
+	.card-description {
+		max-height: 1000px !important;
+	}
 }
 
 @media screen and (min-width: 640px) {
