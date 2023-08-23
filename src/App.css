@@ -19,6 +19,7 @@
 		font-size: small !important;
 		overflow: hidden !important;
 		white-space: nowrap !important;
+		min-width: 80px;
 	}
 
 	.card-description {

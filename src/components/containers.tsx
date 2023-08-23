@@ -142,7 +142,7 @@ const Tank = (props: iTank) => {
 	}
 
 	return (
-		<img src={imagePath} className="xs:w-8 md:w-10" alt={props.altText}></img>
+		<img src={imagePath} className="xs:w-8 md:w-10 md:min-w-[60px] " alt={props.altText}></img>
 	)
 }
 

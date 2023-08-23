@@ -13,7 +13,7 @@ const Timeline = () => {
 					timelineContent: <div>Empieza nuestra aventura, y tomamos la sustancia.
 						Recuerden que el formato de la sustancia no var&iacute;a y puede ser pastillas o en formato cristal. La droga, en definitiva, es la misma. Asumimos que pasaron, al menos, 90 dias desde el &uacute;ltimo
 						consumo de extasis, o es tu primera vez.
-						<Full caption="Nuestro tanquecito esta lleno de serotonina"></Full>
+						<Full caption="Nuestro tanquecito est&aacute; lleno de serotonina"></Full>
 					</div>
 				},
 				{
@@ -35,7 +35,7 @@ const Timeline = () => {
 					timelineContent: <div>Ya pasaron 8 horas desde que consumimos nuestra ultima dosis. Probablemente estemos durmiendo (o en proceso de hacerlo). Record&aacute; que podes tener varios sintomas cuando intentes dormir,
 						incluidos: brain zaps (como "descargas de electricidad en la cabeza"), movimientos involuntarios, sue&ntilde;os muy vividos, levantarte muchas veces a hacer pis, o incluso insomnio. Tu cerebro esta intentando
 						recuperarse de la sustancia, no te asustes.
-						<Empty caption="Nuestro tanquecito esta totalmente vacio"></Empty>
+						<Empty caption="Nuestro tanquecito est&aacute; totalmente vac&iacute;o"></Empty>
 					</div>
 				},
 				{
@@ -46,7 +46,7 @@ const Timeline = () => {
 						si consumimos el dia s&aacute;bado, hoy seria martes),
 						y es muy comun, dado que el cerebro esta todavia recuper&aacute;ndose. Pod&eacute;s sentir irritabilidad, tristeza, depresi&oacute;n, poca esperanza. Trat&aacute; de no pelearte con nadie de tu familia, y ten&eacute; en cuenta
 						que es un proceso qu&iacute;mico y va a pasar pronto.
-						<Empty caption="Nuestro tanquecito sigue vacio"></Empty>
+						<Empty caption="Nuestro tanquecito sigue vac&iacute;o"></Empty>
 					</div>
 				},
 				{
@@ -57,7 +57,7 @@ const Timeline = () => {
 						listos para volver al ruedo, pero nuestro cerebro todavia se est&aacute; recuperando!
 						<br />Si sentis que no te est&aacute;s recuperando, o est&aacute;s asustado o preocupado por algun sintoma, te recomendamos acudir al medico! Si no te anim&aacute;s, podes dejar un mensaje en el <a href="http://argenpills.org">foro de Argenpills</a>, 
 						tal vez encuentres alguna respuesta ahi, pero <strong>record&aacute; que no somos m&eacute;dicos ni reemplazmos su funci&oacute;n</strong>!.
-						<Empty caption="Nuestro tanquecito sigue vacio! Aunque nos sintamos mejor"></Empty>
+						<Empty caption="Nuestro tanquecito sigue vac&iacute;o! Aunque nos sintamos mejor"></Empty>
 					</div>
 				},
 				{
@@ -85,7 +85,7 @@ const Timeline = () => {
 					timelineContent: <div>Pasaron <strong>60 d&iacute;as (o m&aacute;s!)</strong> desde la &uacute;ltima toma de &eacute;xtasis. Nuestro cerebro est&aacute; casi recuperado!
 						Si tenemos ganas, podemos repetir la toma, respetando la dosis recomendada (maximo 120-150mg) de forma
 						segura, teniendo las precauciones y recaudos suficientes
-						<Full caption="Nuestro tanquecito esta lleno de serotonina nuevamente!"></Full>
+						<Full caption="Nuestro tanquecito est&aacute; lleno de serotonina nuevamente!"></Full>
 					</div>,
 				},
 				,
@@ -97,7 +97,7 @@ const Timeline = () => {
 						Es el tiempo ideal de espera entre consumos de extasis, si queremos disminuir los efectos adversos y problemas a futuro.
 						Si tenemos ganas, podemos repetir la toma, respetando la dosis recomendada (maximo 120-150mg) de forma
 						segura, teniendo las precauciones y recaudos suficientes.
-						<Full caption="Nuestro tanquecito esta lleno de serotonina nuevamente!"></Full>
+						<Full caption="Nuestro tanquecito est&aacute; lleno de serotonina nuevamente!"></Full>
 					</div>,
 				},
 
