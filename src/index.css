@@ -7,14 +7,6 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.rc-card-text p {
-	font-size: 1em;
-}
-
-.rc-card-subtitle {
-	line-height: 3em;
-}
-
 code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
 		monospace;

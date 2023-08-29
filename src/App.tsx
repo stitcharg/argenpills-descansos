@@ -1,20 +1,17 @@
+import { Route, BrowserRouter, Routes } from 'react-router-dom'
 import './App.css'
-
-import HeroComponent from './components/hero'
-import Timeline from './components/timeline'
+import AboutUs from './pages/about-us'
+import Homepage from './pages/homepage'
 
 function App() {
 	return (
-		<>
-			<div className="App">
-				<div className="container mx-auto">
-					<HeroComponent />
-					<div className="divider"></div>
-					<Timeline />
-				</div>
-			</div>
-		</>
-	)
+		<BrowserRouter>
+			<Routes>
+				<Route path="/" element={<Homepage />} />
+				<Route path="/quienes-somos" element={<AboutUs />} />
+			</Routes>
+		</BrowserRouter>
+	);
 }
 
 export default App
