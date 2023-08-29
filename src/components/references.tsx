@@ -1,11 +1,12 @@
 const References = () => {
 	//https://pubmed.ncbi.nlm.nih.gov/1359444/
+	//<ReferenceLink name="Repeated administration of MDMA causes transient down-regulation of serotonin 5-HT2 receptors" link="https://pubmed.ncbi.nlm.nih.gov/1359444/" />
 	return (
 		<footer className="footer items-center p-4 bg-neutral text-neutral-content">
 			<div className="items-center grid-flow-row">
 				<h2 className="text-lg font-bold">Referencias:</h2>
 				<ul className="list-disc pl-10">
-					<ReferenceLink name="Repeated administration of MDMA causes transient down-regulation of serotonin 5-HT2 receptors" link="https://pubmed.ncbi.nlm.nih.gov/1359444/" />
+					<ReferenceLink name="How often can you take MDMA?" link="https://rollsafe.org/page/how-often-can-you-take-mdma-molly-ecstasy-and-roll/" />
 					<ReferenceLink name="No respectar los descansos" link="https://argenpills.org/showthread.php?tid=1086" />
 					<ReferenceLink name="C&oacute;mo consumir &eacute;xtasis de forma segura" link="https://argenpills.org/showthread.php?tid=961" />
 					<ReferenceLink name="Informaci&oacute;n basica sobre MDMA" link="https://argenpills.org/showthread.php?tid=413" />
