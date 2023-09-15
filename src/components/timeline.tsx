@@ -64,7 +64,7 @@ const Timeline = () => {
 					title: "Dia +20",
 					cardTitle: "20 dias despues",
 					cardSubtitle: `Lo que no se ve`,
-					timelineContent: <div>Pasaron 20 dias desde la toma de &eacute;xtasis. Tal vez nosotros no nos acordemos, pero nuestro cerebro, reci&eacute;n ahora, puede volver a generar la hormona necesaria para la producci&oacute;n de
+					timelineContent: <div>Pasaron 20 dias desde la toma de &eacute;xtasis. Tal vez nosotros no nos acordemos, pero nuestro cerebro, reci&eacute;n ahora, puede volver a generar la enzima necesaria para la producci&oacute;n de
 						serotonina en nuestro cerebro! No hay forma de acelerar este proceso, el cerebro es muy el&aacute;stico pero necesita mucho tiempo para volver al equilibrio qu&iacute;mico.
 						<Filling caption="Nuestro tanquecito empieza a llenarse nuevamente, lentamente"></Filling>
 					</div>
