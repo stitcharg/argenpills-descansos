@@ -1,13 +1,16 @@
+import { useTranslation } from 'react-i18next';
+import parse from 'html-react-parser';
 
 function Footer() {
+	const { t } = useTranslation();
 	return (
 		<div className="row">
 			<footer className="footer footer-center p-10 bg-ap.blue text-white">
 				<div>
 					<p className="font-bold">
-						<a href="https://argenpills.org" className="text-lg">Argenpills.org</a><br />Foro de reduccion de da&ntilde;os
+						<a href="https://argenpills.org" className="text-lg">Argenpills.org</a><br />{parse(t("footer.harmreduction"))}
 					</p>
-					<p>Copyright &copy; 2023 - Todos los derechos reservados</p>
+					<p>{parse(t("footer.copyright"))}</p>
 				</div>
 				<div>
 					<div className="grid grid-flow-col gap-4">

@@ -1,4 +1,4 @@
-import { Route, BrowserRouter, Routes } from 'react-router-dom'
+import { Route, BrowserRouter, Routes, Navigate } from 'react-router-dom'
 import './App.css'
 import AboutUs from './pages/about-us'
 import Homepage from './pages/homepage'
@@ -17,8 +17,16 @@ function App() {
 	return (
 		<BrowserRouter>
 			<Routes>
-				<Route path="/" element={<Homepage />} />
-				<Route path="/quienes-somos" element={<AboutUs />} />
+				{/* English routes */}
+				<Route path="/en" element={<Homepage />} />
+				<Route path="/en/who-are-we" element={<AboutUs />} />
+
+				{/* Spanish routes */}
+				<Route path="/es" element={<Homepage />} />
+				<Route path="/es/quienes-somos" element={<AboutUs />} />
+
+				{/* Redirect to Spanish home as a fallback */}
+				<Route path="*" element={<Navigate to="/es" replace />} />
 			</Routes>
 		</BrowserRouter>
 	);

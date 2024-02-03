@@ -1,9 +1,13 @@
 import Footer from "../components/footer";
 import Logo from "../components/logo";
 import Menu from "../components/menu";
+import { useTranslation } from 'react-i18next';
+import parse from 'html-react-parser';
+
 
 // src/pages/AboutUs.js
 function AboutUs() {
+	const { t } = useTranslation();
 	return (
 		<>
 			<div className="App">
@@ -12,37 +16,40 @@ function AboutUs() {
 				<div className="container mx-auto">
 					<div className="about-us">
 						<h1>
-							&iquest;Quienes somos?
+							{parse(t("about-us.title-who"))}
 						</h1>
 						<p>
-							Argenpills.org nace en el a&ntilde;o 2013 como un lugar para agruparnos y ayudarnos entre todos para aprender sobre el consumo de &eacute;xtasis/MDMA, LSD y otras drogas.
+							{parse(t("about-us.who-p1"))}
 						</p>
 						<p>
-							La idea del foro es permitir al p&uacute;blico en general adquirir informaci&oacute;n de calidad sobre el consumo de drogas y sus efectos, generar conciencia haciendo especial &eacute;nfasis en la reducci&oacute;n de da&ntilde;os y el consumo responsable de las mismas, para de esta forma reducir los efectos nocivos que generan en la salud y evitar da&ntilde;os mayores debido a un uso excesivo/inapropiado.
+							{parse(t("about-us.who-p2"))}
 						</p>
 						<p>
-							<strong>BAJO NING&Uacute;N PUNTO DE VISTA SE BUSCA PROMOVER O INCITAR EL USO DE SUSTANCIAS ILEGALES Y NO SE PERMITIR&Aacute;N MENSAJES DE ESA &Iacute;NDOLE.</strong>
+							{parse(t("about-us.who-p3"))}
 						</p>
 						<p>
-							El foro no permite <strong>NINGUN TIPO DE COMERCIALIZACION de ning&uacute;n tipo de droga.</strong> Los moderadores y administradores revisan constantemente los mensajes p&uacute;blicos y privados entre usuarios, y cuando se detecta que las reglas se rompen, esa persona es expulsada <strong>de forma permanente</strong> del foro.
+							{parse(t("about-us.who-p4"))}
 						</p>
-						<h1>&iquest;Dónde estamos?</h1>
+
+						<h1>
+							{parse(t("about-us.title-where"))}
+						</h1>
 						<p>
-							Las &uacute;nicas cuentas que tenemos son las siguientes:
+							{parse(t("about-us.where-p1"))}
 						</p>
 						<ul>
 							<li>
-								<a target="_blank" rel="noopener noreferrer" href="http://argenpills.org">http://argenpills.org</a> → foro de reduccion de da&ntilde;os. Registro gratuito y abierto a todo el mundo.
+								{parse(t("about-us.where-l1"))}
 							</li>
 							<li>
-								<a target="_blank" rel="noopener noreferrer" href="https://www.twitter.com/argenpills">https://www.twitter.com/argenpills</a> → cuenta oficial de twitter.
+								{parse(t("about-us.where-l2"))}
 							</li>
 							<li>
-								Telegram: <a target="_blank" rel="noopener noreferrer" href="https://t.me/argenpills_oficial">https://t.me/argenpills_oficial</a> → bot de Telegram para publicar las pastillas en circulacion en Argentina
+								{parse(t("about-us.where-l3"))}
 							</li>
 						</ul>
 						<p>
-							Cualquier otra cuenta, sea en Instagram, Facebook, Threads, Mastodon u otra red social que use el nombre de Argenpills <strong>no tiene nada que ver con nosotros</strong>.
+							{parse(t("about-us.where-p2"))}
 						</p>
 
 					</div>
