@@ -6,7 +6,7 @@ const Languages = () => {
     const { i18n } = useTranslation();
     const currentLanguage = i18n.language;
 
-    return (returnFlag(currentLanguage));
+    return returnFlag(currentLanguage);
 }
 
 const returnFlag = (lang: string) => {
@@ -19,9 +19,9 @@ const returnFlag = (lang: string) => {
         //navigate(0);
     }
 
-    if (lang == "es") return <US title="English" onClick={() => redirect("en")} />
+    if (lang == "es") return <US title="Change to english" className='w-7 hover:cursor-pointer' onClick={() => redirect("en")} />
 
-    if (lang == "en") return <AR title='Español' onClick={() => redirect("es")} />
+    if (lang == "en") return <AR title='Cambiar a español' className='w-7 hover:cursor-pointer' onClick={() => redirect("es")} />
 }
 
 export default Languages;
