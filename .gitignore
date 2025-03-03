@@ -1,1 +1,12 @@
 node_modules/**
+dist/empty.png
+dist/favicon.ico
+dist/full.png
+dist/hero.jpg
+dist/index.html
+dist/logo.png
+dist/medium.png
+dist/assets/index-jKy8SAyb.css
+dist/assets/index-SnWxCL_3.js
+dist/locales/en/translation.json
+dist/locales/es/translation.json

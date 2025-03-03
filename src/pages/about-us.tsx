@@ -54,7 +54,7 @@ const AboutUs: React.FC<PageProps> = ({ language }) => {
 						</p>
 
 					</div>
-					<Footer />
+					<Footer language={language} />
 				</div>
 			</div>
 		</>
