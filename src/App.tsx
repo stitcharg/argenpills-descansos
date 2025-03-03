@@ -19,12 +19,12 @@ function App() {
 			<BrowserRouter>
 				<Routes>
 					{/* English routes */}
-					<Route path="/en" element={<Homepage />} />
-					<Route path="/en/who-are-we" element={<AboutUs />} />
+					<Route path="/en" element={<Homepage language='en' />} />
+					<Route path="/en/who-are-we" element={<AboutUs language='en' />} />
 
 					{/* Spanish routes */}
-					<Route path="/es" element={<Homepage />} />
-					<Route path="/es/quienes-somos" element={<AboutUs />} />
+					<Route path="/es" element={<Homepage language='es' />} />
+					<Route path="/es/quienes-somos" element={<AboutUs language='es' />} />
 
 					{/* Redirect to Spanish home as a fallback */}
 					<Route path="*" element={<Navigate to="/es" replace />} />

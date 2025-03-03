@@ -1,8 +1,10 @@
 import { useTranslation } from 'react-i18next';
 import parse from 'html-react-parser';
+import { PageProps } from './interfaces';
 
-function Footer() {
-	const { t } = useTranslation();
+const Footer: React.FC<PageProps> = ({ language }) => {
+	const { t } = useTranslation(language);
+
 	return (
 		<div className="row">
 			<footer className="footer footer-center p-10 bg-ap.blue text-white">
