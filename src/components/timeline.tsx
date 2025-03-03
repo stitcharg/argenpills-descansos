@@ -3,15 +3,16 @@ import { Chrono } from "react-chrono";
 import { FullToEmpty, Full, Empty, Filling, Half } from "./containers";
 import { useTranslation } from 'react-i18next';
 import parse from 'html-react-parser';
+import { PageProps } from "./interfaces";
 
-const Timeline = () => {
-	const { t, i18n } = useTranslation();
+const Timeline: React.FC<PageProps> = ({ language }) => {
+	const { t } = useTranslation(language);
 
 	const [items, setItems] = useState(getTimelineItems());
 
 	useEffect(() => {
 		setItems(getTimelineItems());
-	}, [i18n.language]);
+	}, [language]);
 
 	// Function to get initial items
 	function getTimelineItems() {

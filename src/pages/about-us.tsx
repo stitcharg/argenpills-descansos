@@ -3,16 +3,17 @@ import Logo from "../components/logo";
 import Menu from "../components/menu";
 import { useTranslation } from 'react-i18next';
 import parse from 'html-react-parser';
-
+import { PageProps } from "../components/interfaces";
+import React from "react";
 
 // src/pages/AboutUs.js
-function AboutUs() {
-	const { t } = useTranslation();
+const AboutUs: React.FC<PageProps> = ({ language }) => {
+	const { t } = useTranslation(language);
 	return (
 		<>
 			<div className="App">
 				<Logo />
-				<Menu />
+				<Menu language={language} />
 				<div className="container mx-auto">
 					<div className="about-us">
 						<h1>

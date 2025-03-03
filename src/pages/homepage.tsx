@@ -4,19 +4,20 @@ import Logo from "../components/logo";
 import Menu from "../components/menu";
 import References from "../components/references";
 import Timeline from "../components/timeline";
+import { PageProps } from "../components/interfaces";
 
-function Homepage () {
+const Homepage: React.FC<PageProps> = ({ language }) => {
 	return (
 		<>
 			<div className="App">
 				<Logo />
-				<Menu />
+				<Menu language={language} />
 				<div className="container mx-auto">
 					<HeroComponent />
 					<div className="divider"></div>
-					<Timeline />
+					<Timeline language={language} />
 					<References />
-					<Footer />
+					<Footer language={language} />
 				</div>
 			</div>
 		</>
