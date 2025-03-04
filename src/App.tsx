@@ -10,16 +10,7 @@ function App() {
 	const { i18n, t, ready } = useTranslation();
 
 	useEffect(() => {
-		const handleResourceLoad = (loaded: boolean, lng: string) => {
-			console.log(`Resources loaded for ${lng}:`, loaded);
-			console.log('Current language:', i18n.language);
-			console.log('Resolved language:', i18n.resolvedLanguage);
-			console.log('All languages:', i18n.languages);
-			console.log('Is ready?', ready);
-
-			if (loaded) {
-				console.log("Testing translation (hero.title):", t('hero.title'));
-			}
+		const handleResourceLoad = (_loaded: boolean, _lng: string) => {
 		};
 
 		i18n.on('loaded', handleResourceLoad);
