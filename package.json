@@ -12,6 +12,7 @@
   "dependencies": {
     "@tailwindcss/typography": "^0.5.10",
     "autoprefixer": "^10.4.17",
+    "caniuse-lite": "^1.0.30001702",
     "country-flag-icons": "^1.5.9",
     "html-react-parser": "^5.1.1",
     "i18next": "^23.8.2",
