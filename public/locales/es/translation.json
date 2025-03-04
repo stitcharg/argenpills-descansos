@@ -1,95 +1,98 @@
 {
-    "title": "Descansos",
-    "urls": {
-        "whoarewe": "quienes-somos"
-    },
-    "header": {
-        "timeline": "Línea de tiempo",
-        "whoarewe": "Quienes somos?"
-    },
-    "hero": {
-        "title": "Hola!",
-        "subtitle": "En este sitio vamos a tratar de explicarte porque es importante esperar <strong>al menos 30 dias</strong> entre tomas de éxtasis"
-    },
-    "footer": {
-        "title": "Referencias",
-        "copyright": "Copyright &copy; 2023 - Todos los derechos reservados",
-        "harmreduction": "Foro de reduccion de da&ntilde;os"
-    },
-    "timeline": {
-        "0": {
-            "title": "Hora 0",
-            "cardTitle": "Toma inicial",
-            "timelineContent": "Empieza nuestra aventura, y tomamos la sustancia Recuerden que el formato de la sustancia no var&iacute;a y puede ser pastillas o en formato cristal. La droga, en definitiva, es la misma. Asumimos que pasaron, al menos, 90 dias desde el &uacute;ltimo consumo de extasis, o es tu primera vez.",
-            "tankCaption": "Nuestro tanquecito est&aacute; lleno de serotonina"
-        },
-        "2": {
-            "title": "Hora +2",
-            "cardTitle": "En la cresta de la ola",
-            "timelineContent": "Estamos en el pico del viaje, todo es amor y felicidad, queremos que no se termine nunca! Recordemos hidratarnos, comer cositas dulces, frutas (si tenemos disponibles), charlar con nuestros amigos y amigas, darnos besos y sentir la m&uacute;sica. Todo es perfecto! <br /> Si est&aacute;s pensando en redosificar, recorda hacerlo con la <strong>mitad de la dosis original</strong> (si tomaste una pastilla, toma 1/2 mas, si tomaste 1/2, 1/4, etc.). Respetar esto es importante para evitar la neurotoxicidad, y cada vez que repitas la toma, vas a sentir menos sensaciones agradables.",
-            "tankCaption": "Nuestro tanquecito se va vaciando a medida que la sustancia va circulando en nuestro sistema"
-        },
-        "8": {
-            "title": "Hora +8",
-            "cardTitle": "Pasaron 8 horas",
-            "cardSubtitle": "A mimir",
-            "timelineContent": "Ya pasaron 8 horas desde que consumimos nuestra ultima dosis. Probablemente estemos durmiendo (o en proceso de hacerlo). Record&aacute; que podes tener varios sintomas cuando intentes dormir, incluidos: brain zaps (como \"descargas de electricidad en la cabeza\"), movimientos involuntarios, sue&ntilde;os muy vividos, levantarte muchas veces a hacer pis, o incluso insomnio. Tu cerebro esta intentando recuperarse de la sustancia, no te asustes.",
-            "tankCaption": "Nuestro tanquecito est&aacute; totalmente vac&iacute;o"
-        },
-        "48": {
-            "title": "Dia +2",
-            "cardTitle": "2 dias despues",
-            "cardSubtitle": "Tuesday Blues",
-            "timelineContent": "Ya pasaron 2 d&iacute;as de la toma, estamos empezando a volver a la normalidad, pero podemos sentir un baj&oacute;n an&iacute;mico muy grande. Se le llama \"Tuesday Blues\" en ingles (\"Martes triste\", porque usualmente, si consumimos el dia s&aacute;bado, hoy seria martes), y es muy comun, dado que el cerebro esta todavia recuper&aacute;ndose. Pod&eacute;s sentir irritabilidad, tristeza, depresi&oacute;n, poca esperanza. Trat&aacute; de no pelearte con nadie de tu familia, y ten&eacute; en cuenta que es un proceso qu&iacute;mico y va a pasar pronto.",
-            "tankCaption": "Nuestro tanquecito sigue vac&iacute;o"
-        },
-        "96": {
-            "title": "Dia +4",
-            "cardTitle": "4 dias despues",
-            "cardSubtitle": "(Casi) normales",
-            "timelineContent": "Pasaron 4 dias desde que consumimos. Nos sentimos bastante mejor, dormimos bien, tenemos buen &aacute;nimo, podemos concentrarnos, casi que parece que no tomamos nada el finde, y estamos listos para volver al ruedo, pero nuestro cerebro todavia se est&aacute; recuperando! <br />Si sentis que no te est&aacute;s recuperando, o est&aacute;s asustado o preocupado por algun sintoma,  te recomendamos acudir al medico! Si no te anim&aacute;s, podes dejar un mensaje en el <a href=\"http://argenpills.org\">foro de Argenpills</a>, tal vez encuentres alguna respuesta ahi, pero <strong>record&aacute; que no somos m&eacute;dicos ni reemplazmos su funci&oacute;n</strong>!.",
-            "tankCaption": "Nuestro tanquecito sigue vac&iacute;o! Aunque nos sintamos mejor"
-        },
-        "480": {
-            "title": "Dia +20",
-            "cardTitle": "20 dias despues",
-            "cardSubtitle": "Lo que no se ve",
-            "timelineContent": "Pasaron 20 dias desde la toma de &eacute;xtasis. Tal vez nosotros no nos acordemos, pero nuestro cerebro, reci&eacute;n ahora, puede volver a generar la enzima necesaria para la producci&oacute;n de serotonina en nuestro cerebro! No hay forma de acelerar este proceso, el cerebro es muy el&aacute;stico pero necesita mucho tiempo para volver al equilibrio qu&iacute;mico.",
-            "tankCaption": "Nuestro tanquecito empieza a llenarse nuevamente, lentamente"
-        },
-        "720": {
-            "title": "Dia +30",
-            "cardTitle": "30 dias despues",
-            "cardSubtitle": "Estamos listos para otro round... o no?",
-            "timelineContent": "Ya pasaron 30 d&iacute;as desde nuestra toma de &eacute;xtasis. Esperamos el tiempos suficiente para que la serotonina empiece a recuperarse en nuestro cerebro.",
-            "tankCaption": "Nuestro tanquecito pudo llenarse durante 10 dias, pero no llega a llenarse del todo"
-        },
-        "1440": {
-            "title": "Dia +60",
-            "cardTitle": "60 dias despues (o mas!)",
-            "cardSubtitle": "Cosas buenas les esperan a los que esperan",
-            "timelineContent": "Pasaron <strong>60 d&iacute;as (o m&aacute;s!)</strong> desde la &uacute;ltima toma de &eacute;xtasis. Nuestro cerebro est&aacute; casi recuperado! Si tenemos ganas, podemos repetir la toma, respetando la dosis recomendada (maximo 120-150mg) de forma segura, teniendo las precauciones y recaudos suficientes",
-            "tankCaption": "Nuestro tanquecito est&aacute; lleno de serotonina nuevamente!"
-        },
-        "2160": {
-            "title": "Dia +90",
-            "cardTitle": "90 dias despues (o mas!)",
-            "cardSubtitle": "Recuperado completamente!",
-            "timelineContent": "Pasaron <strong>90 d&iacute;as (o m&aacute;s!)</strong> desde la ultima toma de &eacute;xtasis. Nuestro cerebro est&aacute; recuperado! (al menos a nivel qu&iacute;mico). Es el tiempo ideal de espera entre consumos de extasis, si queremos disminuir los efectos adversos y problemas a futuro. Si tenemos ganas, podemos repetir la toma, respetando la dosis recomendada (maximo 120-150mg) de forma segura, teniendo las precauciones y recaudos suficientes.",
-            "tankCaption": "Nuestro tanquecito est&aacute; lleno de serotonina nuevamente!"
-        }
-    },
-    "about-us": {
-        "title-who": "¿Quienes somos?",
-        "who-p1": "Argenpills.org nace en el a&ntilde;o 2013 como un lugar para agruparnos y ayudarnos entre todos para aprender sobre el consumo de &eacute;xtasis/MDMA, LSD y otras drogas.",
-        "who-p2": "La idea del foro es permitir al p&uacute;blico en general adquirir informaci&oacute;n de calidad sobre el consumo de drogas y sus efectos, generar conciencia haciendo especial &eacute;nfasis en la reducci&oacute;n de da&ntilde;os y el consumo responsable de las mismas, para de esta forma reducir los efectos nocivos que generan en la salud y evitar da&ntilde;os mayores debido a un uso excesivo/inapropiado.",
-        "who-p3": "<strong>BAJO NING&Uacute;N PUNTO DE VISTA SE BUSCA PROMOVER O INCITAR EL USO DE SUSTANCIAS ILEGALES Y NO SE PERMITIR&Aacute;N MENSAJES DE ESA &Iacute;NDOLE.</strong>",
-        "who-p4": "El foro no permite <strong>NINGUN TIPO DE COMERCIALIZACION de ning&uacute;n tipo de droga</strong>. Los moderadores y administradores revisan constantemente los mensajes p&uacute;blicos y privados entre usuarios, y cuando se detecta que las reglas se rompen, esa persona es expulsada <strong>de forma permanente</strong> del foro.",
-        "title-where": "¿Dónde estamos?",
-        "where-p1": "Las &uacute;nicas cuentas que tenemos son las siguientes:",
-        "where-l1": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http: //argenpills.org\">http://argenpills.org</a> → foro de reduccion de da&ntilde;os. Registro gratuito y abierto a todo el mundo.",
-        "where-l2": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.twitter.com/argenpills\">https://www.twitter.com/argenpills</a> → cuenta oficial de twitter.",
-        "where-l3": "Telegram: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/argenpills_oficial\">https://t.me/argenpills_oficial</a> → bot de Telegram para publicar las pastillas en circulacion en Argentina",
-        "where-p2": "Cualquier otra cuenta, sea en Instagram, Facebook, Threads, Mastodon u otra red social que use el nombre de Argenpills <strong>no tiene nada que ver con nosotros</strong>."
-    }
+	"title": "Descansos",
+	"urls": {
+		"whoarewe": "quienes-somos"
+	},
+	"header": {
+		"timeline": "Línea de tiempo",
+		"whoarewe": "Quienes somos?"
+	},
+	"hero": {
+		"title": "Hola!",
+		"subtitle": "En este sitio vamos a tratar de explicarte porque es importante esperar <strong>al menos 30 dias</strong> entre tomas de éxtasis"
+	},
+	"footer": {
+		"title": "Referencias",
+		"copyright": "Copyright &copy; 2023 - Todos los derechos reservados",
+		"harmreduction": "Foro de reduccion de da&ntilde;os"
+	},
+	"timeline": {
+		"0": {
+			"title": "Hora 0",
+			"cardTitle": "Toma inicial",
+			"timelineContent": "Empieza nuestra aventura, y tomamos la sustancia Recuerden que el formato de la sustancia no var&iacute;a y puede ser pastillas o en formato cristal. La droga, en definitiva, es la misma. Asumimos que pasaron, al menos, 90 dias desde el &uacute;ltimo consumo de extasis, o es tu primera vez.",
+			"tankCaption": "Nuestro tanquecito est&aacute; lleno de serotonina"
+		},
+		"2": {
+			"title": "Hora +2",
+			"cardTitle": "En la cresta de la ola",
+			"timelineContent": "Estamos en el pico del viaje, todo es amor y felicidad, queremos que no se termine nunca! Recordemos hidratarnos, comer cositas dulces, frutas (si tenemos disponibles), charlar con nuestros amigos y amigas, darnos besos y sentir la m&uacute;sica. Todo es perfecto! <br /> Si est&aacute;s pensando en redosificar, recorda hacerlo con la <strong>mitad de la dosis original</strong> (si tomaste una pastilla, toma 1/2 mas, si tomaste 1/2, 1/4, etc.). Respetar esto es importante para evitar la neurotoxicidad, y cada vez que repitas la toma, vas a sentir menos sensaciones agradables.",
+			"tankCaption": "Nuestro tanquecito se va vaciando a medida que la sustancia va circulando en nuestro sistema"
+		},
+		"8": {
+			"title": "Hora +8",
+			"cardTitle": "Pasaron 8 horas",
+			"cardSubtitle": "A mimir",
+			"timelineContent": "Ya pasaron 8 horas desde que consumimos nuestra ultima dosis. Probablemente estemos durmiendo (o en proceso de hacerlo). Record&aacute; que podes tener varios sintomas cuando intentes dormir, incluidos: brain zaps (como \"descargas de electricidad en la cabeza\"), movimientos involuntarios, sue&ntilde;os muy vividos, levantarte muchas veces a hacer pis, o incluso insomnio. Tu cerebro esta intentando recuperarse de la sustancia, no te asustes.",
+			"tankCaption": "Nuestro tanquecito est&aacute; totalmente vac&iacute;o"
+		},
+		"48": {
+			"title": "Dia +2",
+			"cardTitle": "2 dias despues",
+			"cardSubtitle": "Tuesday Blues",
+			"timelineContent": "Ya pasaron 2 d&iacute;as de la toma, estamos empezando a volver a la normalidad, pero podemos sentir un baj&oacute;n an&iacute;mico muy grande. Se le llama \"Tuesday Blues\" en ingles (\"Martes triste\", porque usualmente, si consumimos el dia s&aacute;bado, hoy seria martes), y es muy comun, dado que el cerebro esta todavia recuper&aacute;ndose. Pod&eacute;s sentir irritabilidad, tristeza, depresi&oacute;n, poca esperanza. Trat&aacute; de no pelearte con nadie de tu familia, y ten&eacute; en cuenta que es un proceso qu&iacute;mico y va a pasar pronto.",
+			"tankCaption": "Nuestro tanquecito sigue vac&iacute;o"
+		},
+		"96": {
+			"title": "Dia +4",
+			"cardTitle": "4 dias despues",
+			"cardSubtitle": "(Casi) normales",
+			"timelineContent": "Pasaron 4 dias desde que consumimos. Nos sentimos bastante mejor, dormimos bien, tenemos buen &aacute;nimo, podemos concentrarnos, casi que parece que no tomamos nada el finde, y estamos listos para volver al ruedo, pero nuestro cerebro todavia se est&aacute; recuperando! <br />Si sentis que no te est&aacute;s recuperando, o est&aacute;s asustado o preocupado por algun sintoma,  te recomendamos acudir al medico! Si no te anim&aacute;s, podes dejar un mensaje en el <a href=\"http://argenpills.org\">foro de Argenpills</a>, tal vez encuentres alguna respuesta ahi, pero <strong>record&aacute; que no somos m&eacute;dicos ni reemplazmos su funci&oacute;n</strong>!.",
+			"tankCaption": "Nuestro tanquecito sigue vac&iacute;o! Aunque nos sintamos mejor"
+		},
+		"480": {
+			"title": "Dia +20",
+			"cardTitle": "20 dias despues",
+			"cardSubtitle": "Lo que no se ve",
+			"timelineContent": "Pasaron 20 dias desde la toma de &eacute;xtasis. Tal vez nosotros no nos acordemos, pero nuestro cerebro, reci&eacute;n ahora, puede volver a generar la enzima necesaria para la producci&oacute;n de serotonina en nuestro cerebro! No hay forma de acelerar este proceso, el cerebro es muy el&aacute;stico pero necesita mucho tiempo para volver al equilibrio qu&iacute;mico.",
+			"tankCaption": "Nuestro tanquecito empieza a llenarse nuevamente, lentamente"
+		},
+		"720": {
+			"title": "Dia +30",
+			"cardTitle": "30 dias despues",
+			"cardSubtitle": "Estamos listos para otro round... o no?",
+			"timelineContent": "Ya pasaron 30 d&iacute;as desde nuestra toma de &eacute;xtasis. Esperamos el tiempos suficiente para que la serotonina empiece a recuperarse en nuestro cerebro.",
+			"tankCaption": "Nuestro tanquecito pudo llenarse durante 10 dias, pero no llega a llenarse del todo"
+		},
+		"1440": {
+			"title": "Dia +60",
+			"cardTitle": "60 dias despues (o mas!)",
+			"cardSubtitle": "Cosas buenas les esperan a los que esperan",
+			"timelineContent": "Pasaron <strong>60 d&iacute;as (o m&aacute;s!)</strong> desde la &uacute;ltima toma de &eacute;xtasis. Nuestro cerebro est&aacute; casi recuperado! Si tenemos ganas, podemos repetir la toma, respetando la dosis recomendada (maximo 120-150mg) de forma segura, teniendo las precauciones y recaudos suficientes",
+			"tankCaption": "Nuestro tanquecito est&aacute; lleno de serotonina nuevamente!"
+		},
+		"2160": {
+			"title": "Dia +90",
+			"cardTitle": "90 dias despues (o mas!)",
+			"cardSubtitle": "Recuperado completamente!",
+			"timelineContent": "Pasaron <strong>90 d&iacute;as (o m&aacute;s!)</strong> desde la ultima toma de &eacute;xtasis. Nuestro cerebro est&aacute; recuperado! (al menos a nivel qu&iacute;mico). Es el tiempo ideal de espera entre consumos de extasis, si queremos disminuir los efectos adversos y problemas a futuro. Si tenemos ganas, podemos repetir la toma, respetando la dosis recomendada (maximo 120-150mg) de forma segura, teniendo las precauciones y recaudos suficientes.",
+			"tankCaption": "Nuestro tanquecito est&aacute; lleno de serotonina nuevamente!"
+		}
+	},
+	"about-us": {
+		"title-who": "¿Quienes somos?",
+		"who-p1": "Argenpills.org nace en el a&ntilde;o 2013 como un lugar para agruparnos y ayudarnos entre todos para aprender sobre el consumo de &eacute;xtasis/MDMA, LSD y otras drogas.",
+		"who-p2": "La idea del foro es permitir al p&uacute;blico en general adquirir informaci&oacute;n de calidad sobre el consumo de drogas y sus efectos, generar conciencia haciendo especial &eacute;nfasis en la reducci&oacute;n de da&ntilde;os y el consumo responsable de las mismas, para de esta forma reducir los efectos nocivos que generan en la salud y evitar da&ntilde;os mayores debido a un uso excesivo/inapropiado.",
+		"who-p3": "<strong>BAJO NING&Uacute;N PUNTO DE VISTA SE BUSCA PROMOVER O INCITAR EL USO DE SUSTANCIAS ILEGALES Y NO SE PERMITIR&Aacute;N MENSAJES DE ESA &Iacute;NDOLE.</strong>",
+		"who-p4": "El foro no permite <strong>NINGUN TIPO DE COMERCIALIZACION de ning&uacute;n tipo de droga</strong>. Los moderadores y administradores revisan constantemente los mensajes p&uacute;blicos y privados entre usuarios, y cuando se detecta que las reglas se rompen, esa persona es expulsada <strong>de forma permanente</strong> del foro.",
+		"title-where": "¿Dónde estamos?",
+		"where-p1": "Las &uacute;nicas cuentas que tenemos son las siguientes:",
+		"where-l1": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http: //argenpills.org\">http://argenpills.org</a> → foro de reduccion de da&ntilde;os. Registro gratuito y abierto a todo el mundo.",
+		"where-l2": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http: //argenpills.info\">http://argenpills.info</a> → version mobile para ver r&aacute;pidamente las pastillas en cirulacion de Argentina.",
+		"where-l3": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.twitter.com/argenpills\">https://www.twitter.com/argenpills</a> → cuenta oficial de twitter.",
+		"where-l4": "Telegram: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/argenpills_oficial\">https://t.me/argenpills_oficial</a> → bot de Telegram para publicar las pastillas en circulaci&oacute;n en Argentina",
+		"where-l5": "Telegram AI Bot: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/ArgenpillsAIBot\">https://t.me/ArgenpillsAIBot</a> → bot de Telegram para realizar preguntas de reducci&oacute;n de da&ntilde;os",
+		"where-l6": "Tik Tok: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.tiktok.com/@argenpills\">https://www.tiktok.com/@argenpills</a> → canal de divulgaci&oacute;n de data de reduccion de da&ntilde;os",
+		"where-p2": "Cualquier otra cuenta, sea en Instagram, Facebook, Threads, Mastodon u otra red social que use el nombre de Argenpills <strong>no tiene nada que ver con nosotros</strong>."
+	}
 }
