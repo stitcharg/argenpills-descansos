@@ -1,95 +1,98 @@
 {
-    "title": "Rest times",
-    "urls": {
-        "whoarewe": "who-are-we"
-    },
-    "header": {
-        "timeline": "Timeline",
-        "whoarewe": "Who are we"
-    },
-    "hero": {
-        "title": "Hello!",
-        "subtitle": "On this site, we will try to explain to you why it is important to wait <strong>at least 30 days</strong> between ecstasy doses."
-    },
-    "footer": {
-        "title": "Referencies",
-        "copyright": "Copyright &copy; 2023 - All rights reserved",
-        "harmreduction": "Harm Reduction Forum"
-    },
-    "timeline": {
-        "0": {
-            "title": "Hour Zero",
-            "cardTitle": "Initial take",
-            "timelineContent": "Our adventure begins, and we take the substance. Remember that the form of the substance does not change and can be in pills or crystal form. The drug, in the end, is the same. We assume that at least 90 days have passed since the last ecstasy use, or it is your first time.",
-            "tankCaption": "Our brain tank is filled with serotonin"
-        },
-        "2": {
-            "title": "Hour +2",
-            "cardTitle": "Riding the wave",
-            "timelineContent": "We're at the peak of the journey, everything is love and happiness, we never want it to end! Let's remember to hydrate, eat sweet things, fruits (if you have them available), chat with our friends, give each other kisses, and feel the music. Everything is perfect!. <br /> If you're thinking about redosing, remember to do it with <strong>half of the original dose</strong> (if you took a pill, take half more, if you took half, take a quarter, etc.). Respecting this is important to avoid neurotoxicity, and each time you repeat the dose, you will feel less pleasant sensations.",
-            "tankCaption": "Our little tank is emptying as the substance circulates in our system"
-        },
-        "8": {
-            "title": "Hour +8",
-            "cardTitle": "Time to sleep",
-            "cardSubtitle": "Zzzzz",
-            "timelineContent": "8 hours have passed since we took our last dose. We are probably sleeping (or in the process of doing so). Remember that you might experience several symptoms when trying to sleep, including: brain zaps (like 'electric shocks in the head'), involuntary movements, very vivid dreams, waking up many times to urinate, or even insomnia. Your brain is trying to recover from the substance, don't be alarmed. ",
-            "tankCaption": "Our little tank is completely empty"
-        },
-        "48": {
-            "title": "Day +2",
-            "cardTitle": "2 Days Later",
-            "cardSubtitle": "Tuesday Blues",
-            "timelineContent": "It's been 2 days since the dose, we're starting to return to normal, but we might feel a significant emotional downturn. This is called 'Tuesday Blues' (because typically, if we consumed on Saturday, today would be Tuesday), and it's very common, as the brain is still recovering. You might feel irritability, sadness, depression, lack of hope. Try not to argue with anyone in your family, and keep in mind that it's a chemical process and it will pass soon.",
-            "tankCaption": "Our little tank is still empty"
-        },
-        "96": {
-            "title": "Day +4",
-            "cardTitle": "4 Days Later",
-            "cardSubtitle": "(Almost) Normal",
-            "timelineContent": "4 days have passed since we took the substance. We feel much better, we sleep well, we are in a good mood, we can concentrate, it almost seems like we didn't take anything last weekend, and we might think we are ready to take another dose this weekend, but our brain is still recovering! <br />If you feel that you are not recovering, or you are scared or worried about any symptom, we recommend you see a doctor! If you feel ashamed or you are unable to go to one, you can leave a message on the <a href='http://argenpills.org'>Argenpills forum</a>, maybe you will find some answers there, but <strong>remember that we are not doctors nor we replace their role</strong>!.",
-            "tankCaption": "Our little tank is still empty! Although we feel better"
-        },
-        "480": {
-            "title": "Day +20",
-            "cardTitle": "20 Days Later",
-            "cardSubtitle": "What we're not seeing",
-            "timelineContent": "20 days have passed since the ecstasy intake. Maybe we don't remember, but our brain, only now, is able to start generating the necessary enzyme for the production of serotonin in our brain again! There is no way to speed up this process, the brain is very elastic but it needs a lot of time to return to chemical balance.",
-            "tankCaption": "Our little tank is starting to fill up again, slowly"
-        },
-        "720": {
-            "title": "Day +30",
-            "cardTitle": "30 Days Later",
-            "cardSubtitle": "Ready for Another Round... Or Not?",
-            "timelineContent": "It's been 30 days since our ecstasy intake. We've waited long enough for the serotonin to start recovering in our brain.",
-            "tankCaption": "Our little tank could fill up for 10 days, but it's not completely full"
-        },
-        "1440": {
-            "title": "Day +60",
-            "cardTitle": "60 Days Later (or more!)",
-            "cardSubtitle": "Good Things Come to Those Who Wait",
-            "timelineContent": "<strong>60 days (or more!)</strong> have passed since the last ecstasy intake. Our brain is almost recovered! If we want, we can safely repeat the dose, respecting the recommended dose (maximum 120-150mg), taking the necessary precautions.",
-            "tankCaption": "Our little tank is full of serotonin again!"
-        },
-        "2160": {
-            "title": "Day +90",
-            "cardTitle": "90 Days Later (or more!)",
-            "cardSubtitle": "Fully Recovered!",
-            "timelineContent": "<strong>90 days (or more!)</strong> have passed since the last ecstasy intake. Our brain is recovered! (at least chemically) This is the ideal waiting time between ecstasy uses if we want to minimize adverse effects and future problems. If we want, we can safely repeat the dose, respecting the recommended dose (maximum 120-150mg), taking the necessary precautions.",
-            "tankCaption": "Our little tank is full of serotonin again!"
-        }
-    },
-    "about-us": {
-        "title-who": "Who are we?",
-        "who-p1": "Argenpills.org was founded in 2013 as a place to gather and help each other learn about the use of ecstasy/MDMA, LSD, and other drugs.",
-        "who-p2": "The idea of the forum is to allow the general public to acquire quality information about drug use and its effects, generate awareness with a special emphasis on harm reduction and responsible consumption, in order to reduce the harmful effects they have on health and avoid greater damage due to excessive/inappropriate use.",
-        "who-p3": "<strong>UNDER NO CIRCUMSTANCES WE INCITE THE PROMOTION OR USE OF ILLEGAL SUBSTANCES, AND MESSAGES OF THAT NATURE WILL NOT BE ALLOWED.</strong>",
-        "who-p4": "The forum does not allow <strong>ANY TYPE OF TRADE of any kind of drugs</strong>. Moderators and administrators constantly review public and private messages between users, and when rule-breaking is detected, that person is permanently expelled from the forum.",
-        "title-where": "Where are we?",
-        "where-p1": "We are mainly a spanish-speaking community, and the only accounts we have are the following:",
-        "where-l1": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://argenpills.org\">http://argenpills.org</a> → harm reduction forum. Free registration and open to everyone.",
-        "where-l2": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.twitter.com/argenpills\">https://www.twitter.com/argenpills</a> → official Twitter account.",
-        "where-l3": "Telegram: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/argenpills_oficial\">https://t.me/argenpills_oficial</a> → Telegram bot for posting pills in circulation in Argentina",
-        "where-p2": "Any other account, whether on Instagram, Facebook, Threads, Mastodon, or another social network that uses the name Argenpills <strong>has nothing to do with us</strong>."
-    }
+	"title": "Rest times",
+	"urls": {
+		"whoarewe": "who-are-we"
+	},
+	"header": {
+		"timeline": "Timeline",
+		"whoarewe": "Who are we"
+	},
+	"hero": {
+		"title": "Hello!",
+		"subtitle": "On this site, we will try to explain to you why it is important to wait <strong>at least 30 days</strong> between ecstasy doses."
+	},
+	"footer": {
+		"title": "Referencies",
+		"copyright": "Copyright &copy; 2023 - All rights reserved",
+		"harmreduction": "Harm Reduction Forum"
+	},
+	"timeline": {
+		"0": {
+			"title": "Hour Zero",
+			"cardTitle": "Initial take",
+			"timelineContent": "Our adventure begins, and we take the substance. Remember that the form of the substance does not change and can be in pills or crystal form. The drug, in the end, is the same. We assume that at least 90 days have passed since the last ecstasy use, or it is your first time.",
+			"tankCaption": "Our brain tank is filled with serotonin"
+		},
+		"2": {
+			"title": "Hour +2",
+			"cardTitle": "Riding the wave",
+			"timelineContent": "We're at the peak of the journey, everything is love and happiness, we never want it to end! Let's remember to hydrate, eat sweet things, fruits (if you have them available), chat with our friends, give each other kisses, and feel the music. Everything is perfect!. <br /> If you're thinking about redosing, remember to do it with <strong>half of the original dose</strong> (if you took a pill, take half more, if you took half, take a quarter, etc.). Respecting this is important to avoid neurotoxicity, and each time you repeat the dose, you will feel less pleasant sensations.",
+			"tankCaption": "Our little tank is emptying as the substance circulates in our system"
+		},
+		"8": {
+			"title": "Hour +8",
+			"cardTitle": "Time to sleep",
+			"cardSubtitle": "Zzzzz",
+			"timelineContent": "8 hours have passed since we took our last dose. We are probably sleeping (or in the process of doing so). Remember that you might experience several symptoms when trying to sleep, including: brain zaps (like 'electric shocks in the head'), involuntary movements, very vivid dreams, waking up many times to urinate, or even insomnia. Your brain is trying to recover from the substance, don't be alarmed. ",
+			"tankCaption": "Our little tank is completely empty"
+		},
+		"48": {
+			"title": "Day +2",
+			"cardTitle": "2 Days Later",
+			"cardSubtitle": "Tuesday Blues",
+			"timelineContent": "It's been 2 days since the dose, we're starting to return to normal, but we might feel a significant emotional downturn. This is called 'Tuesday Blues' (because typically, if we consumed on Saturday, today would be Tuesday), and it's very common, as the brain is still recovering. You might feel irritability, sadness, depression, lack of hope. Try not to argue with anyone in your family, and keep in mind that it's a chemical process and it will pass soon.",
+			"tankCaption": "Our little tank is still empty"
+		},
+		"96": {
+			"title": "Day +4",
+			"cardTitle": "4 Days Later",
+			"cardSubtitle": "(Almost) Normal",
+			"timelineContent": "4 days have passed since we took the substance. We feel much better, we sleep well, we are in a good mood, we can concentrate, it almost seems like we didn't take anything last weekend, and we might think we are ready to take another dose this weekend, but our brain is still recovering! <br />If you feel that you are not recovering, or you are scared or worried about any symptom, we recommend you see a doctor! If you feel ashamed or you are unable to go to one, you can leave a message on the <a href='http://argenpills.org'>Argenpills forum</a>, maybe you will find some answers there, but <strong>remember that we are not doctors nor we replace their role</strong>!.",
+			"tankCaption": "Our little tank is still empty! Although we feel better"
+		},
+		"480": {
+			"title": "Day +20",
+			"cardTitle": "20 Days Later",
+			"cardSubtitle": "What we're not seeing",
+			"timelineContent": "20 days have passed since the ecstasy intake. Maybe we don't remember, but our brain, only now, is able to start generating the necessary enzyme for the production of serotonin in our brain again! There is no way to speed up this process, the brain is very elastic but it needs a lot of time to return to chemical balance.",
+			"tankCaption": "Our little tank is starting to fill up again, slowly"
+		},
+		"720": {
+			"title": "Day +30",
+			"cardTitle": "30 Days Later",
+			"cardSubtitle": "Ready for Another Round... Or Not?",
+			"timelineContent": "It's been 30 days since our ecstasy intake. We've waited long enough for the serotonin to start recovering in our brain.",
+			"tankCaption": "Our little tank could fill up for 10 days, but it's not completely full"
+		},
+		"1440": {
+			"title": "Day +60",
+			"cardTitle": "60 Days Later (or more!)",
+			"cardSubtitle": "Good Things Come to Those Who Wait",
+			"timelineContent": "<strong>60 days (or more!)</strong> have passed since the last ecstasy intake. Our brain is almost recovered! If we want, we can safely repeat the dose, respecting the recommended dose (maximum 120-150mg), taking the necessary precautions.",
+			"tankCaption": "Our little tank is full of serotonin again!"
+		},
+		"2160": {
+			"title": "Day +90",
+			"cardTitle": "90 Days Later (or more!)",
+			"cardSubtitle": "Fully Recovered!",
+			"timelineContent": "<strong>90 days (or more!)</strong> have passed since the last ecstasy intake. Our brain is recovered! (at least chemically) This is the ideal waiting time between ecstasy uses if we want to minimize adverse effects and future problems. If we want, we can safely repeat the dose, respecting the recommended dose (maximum 120-150mg), taking the necessary precautions.",
+			"tankCaption": "Our little tank is full of serotonin again!"
+		}
+	},
+	"about-us": {
+		"title-who": "Who are we?",
+		"who-p1": "Argenpills.org was founded in 2013 as a place to gather and help each other learn about the use of ecstasy/MDMA, LSD, and other drugs.",
+		"who-p2": "The idea of the forum is to allow the general public to acquire quality information about drug use and its effects, generate awareness with a special emphasis on harm reduction and responsible consumption, in order to reduce the harmful effects they have on health and avoid greater damage due to excessive/inappropriate use.",
+		"who-p3": "<strong>UNDER NO CIRCUMSTANCES WE INCITE THE PROMOTION OR USE OF ILLEGAL SUBSTANCES, AND MESSAGES OF THAT NATURE WILL NOT BE ALLOWED.</strong>",
+		"who-p4": "The forum does not allow <strong>ANY TYPE OF TRADE of any kind of drugs</strong>. Moderators and administrators constantly review public and private messages between users, and when rule-breaking is detected, that person is permanently expelled from the forum.",
+		"title-where": "Where are we?",
+		"where-p1": "We are mainly a spanish-speaking community, and the only accounts we have are the following:",
+		"where-l1": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://argenpills.org\">http://argenpills.org</a> → harm reduction forum. Free registration and open to everyone.",
+		"where-l2": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://argenpills.info\">http://argenpills.info</a> → mobile friendly version to quickly check pills that you can find in Argentina",
+		"where-l3": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.twitter.com/argenpills\">https://www.twitter.com/argenpills</a> → official Twitter account.",
+		"where-l4": "Telegram: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/argenpills_oficial\">https://t.me/argenpills_oficial</a> → Telegram bot for posting pills in circulation in Argentina",
+		"where-l5": "Telegram AI Bot: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/ArgenpillsAIBot\">https://t.me/ArgenpillsAIBot</a> → Telegram bot for harm-reduction advices and info",
+		"where-l6": "Tik Tok: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.tiktok.com/@argenpills\">https://www.tiktok.com/@argenpills</a> → Tik-Tok account for harm-reduction advice",
+		"where-p2": "Any other account, whether on Instagram, Facebook, Threads, Mastodon, or another social network that uses the name Argenpills <strong>has nothing to do with us</strong>."
+	}
 }

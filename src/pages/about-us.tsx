@@ -48,6 +48,15 @@ const AboutUs: React.FC<PageProps> = ({ language }) => {
 							<li>
 								{parse(t("about-us.where-l3"))}
 							</li>
+							<li>
+								{parse(t("about-us.where-l4"))}
+							</li>
+							<li>
+								{parse(t("about-us.where-l5"))}
+							</li>
+							<li>
+								{parse(t("about-us.where-l6"))}
+							</li>
 						</ul>
 						<p>
 							{parse(t("about-us.where-p2"))}
