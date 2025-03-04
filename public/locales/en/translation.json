@@ -81,18 +81,18 @@
 	},
 	"about-us": {
 		"title-who": "Who are we?",
-		"who-p1": "Argenpills.org was founded in 2013 as a place to gather and help each other learn about the use of ecstasy/MDMA, LSD, and other drugs.",
-		"who-p2": "The idea of the forum is to allow the general public to acquire quality information about drug use and its effects, generate awareness with a special emphasis on harm reduction and responsible consumption, in order to reduce the harmful effects they have on health and avoid greater damage due to excessive/inappropriate use.",
-		"who-p3": "<strong>UNDER NO CIRCUMSTANCES WE INCITE THE PROMOTION OR USE OF ILLEGAL SUBSTANCES, AND MESSAGES OF THAT NATURE WILL NOT BE ALLOWED.</strong>",
-		"who-p4": "The forum does not allow <strong>ANY TYPE OF TRADE of any kind of drugs</strong>. Moderators and administrators constantly review public and private messages between users, and when rule-breaking is detected, that person is permanently expelled from the forum.",
-		"title-where": "Where are we?",
-		"where-p1": "We are mainly a spanish-speaking community, and the only accounts we have are the following:",
-		"where-l1": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://argenpills.org\">http://argenpills.org</a> → harm reduction forum. Free registration and open to everyone.",
-		"where-l2": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://argenpills.info\">http://argenpills.info</a> → mobile friendly version to quickly check pills that you can find in Argentina",
-		"where-l3": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.twitter.com/argenpills\">https://www.twitter.com/argenpills</a> → official Twitter account.",
-		"where-l4": "Telegram: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/argenpills_oficial\">https://t.me/argenpills_oficial</a> → Telegram bot for posting pills in circulation in Argentina",
-		"where-l5": "Telegram AI Bot: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/ArgenpillsAIBot\">https://t.me/ArgenpillsAIBot</a> → Telegram bot for harm-reduction advices and info",
-		"where-l6": "Tik Tok: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.tiktok.com/@argenpills\">https://www.tiktok.com/@argenpills</a> → Tik-Tok account for harm-reduction advice",
-		"where-p2": "Any other account, whether on Instagram, Facebook, Threads, Mastodon, or another social network that uses the name Argenpills <strong>has nothing to do with us</strong>."
+		"who-p1": "Founded in 2013, Argenpills.org is a community space to learn and support each other regarding the use of ecstasy/MDMA, LSD, and other drugs.",
+		"who-p2": "Our forum aims to provide the public with reliable information about drug use and its effects. We focus on raising awareness, especially about harm reduction and responsible consumption, to minimize health risks and prevent harm from misuse.",
+		"who-p3": "⚠️ <strong>WE ABSOLUTELY DO NOT PROMOTE OR ENCOURAGE THE USE OF ILLEGAL SUBSTANCES. ANY MESSAGES OF THAT NATURE ARE STRICTLY PROHIBITED.</strong> ⚠️",
+		"who-p4": "🚫 <strong>TRADING OF ANY KIND OF DRUGS IS FORBIDDEN</strong> on this forum. Moderators and administrators actively monitor public and private messages. Rule violations will result in permanent expulsion from the forum. 🚫",
+		"title-where": "Where to find us?",
+		"where-p1": "We are primarily a Spanish-speaking community. You can find us on these official platforms:",
+		"where-l1": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://argenpills.org\">http://argenpills.org</a> → Harm reduction forum. Free and open to everyone! 💬",
+		"where-l2": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"http://argenpills.info\">http://argenpills.info</a> → Mobile-friendly pill check for Argentina. 📱",
+		"where-l3": "<a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.twitter.com/argenpills\">https://www.twitter.com/argenpills</a> → Official Twitter account. 🐦",
+		"where-l4": "Telegram: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/argenpills_oficial\">https://t.me/argenpills_oficial</a> → Telegram bot for pill alerts in Argentina. 💊",
+		"where-l5": "Telegram AI Bot: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://t.me/ArgenpillsAIBot\">https://t.me/ArgenpillsAIBot</a> → Telegram bot for harm reduction advice and information. 🤖",
+		"where-l6": "TikTok: <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.tiktok.com/@argenpills\">https://www.tiktok.com/@argenpills</a> → TikTok account for harm reduction tips. 💃",
+		"where-p2": "⚠️ Any other accounts on Instagram, Facebook, Threads, Mastodon, or other social networks using the Argenpills name <strong>are not affiliated with us.</strong> ⚠️"
 	}
 }
